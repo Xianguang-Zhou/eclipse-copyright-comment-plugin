@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.zxg.eclipse.plugin.comment.copyright.feature_1.0.0.jar" id="org.zxg.eclipse.plugin.comment.copyright.feature" version="1.0.0"/>
+</site>
