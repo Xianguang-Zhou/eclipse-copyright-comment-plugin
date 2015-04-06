@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Copyright Comment
+Bundle-SymbolicName: org.zxg.eclipse.plugin.comment.copyright;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Activator: org.zxg.eclipse.plugin.comment.copyright.Activator
+Bundle-Vendor: Xianguang Zhou
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.ui.editors,
+ org.eclipse.text,
+ org.eclipse.core.resources,
+ org.eclipse.ui.ide,
+ org.freemarker;bundle-version="2.3.22"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
